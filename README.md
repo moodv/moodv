@@ -1,16 +1,13 @@
-## Hi there 👋
+##Hi, I'm Mahmoud 👋
 
-<!--
-**moodv/moodv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate who enjoys building things with data and code.  
+I’ve worked on projects ranging from automating sensor calibration with Python to creating a smart healthcare recommendation system using AI.  
 
-Here are some ideas to get you started:
+These days, I’m focusing on data analysis and engineering, expanding my portfolio with projects that turn raw data into useful insights.  
+I mostly work with Python, SQL, and Power BI, but I like exploring anything that helps me solve problems better.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking for job opportunities where I can grow, gain experience, and keep improving.  
+🤔 I’m interested in real-world challenges that push me to think and solve problems with data.
+
+
+📫 Connect with me on [LinkedIn] (https://www.linkedin.com/in/mahmoud-elnaggar-1976a5205/)  
