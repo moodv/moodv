@@ -1,4 +1,4 @@
-##Hi, I'm Mahmoud 👋
+# Hi, I'm Mahmoud 👋
 
 I'm a Computer Science graduate who enjoys building things with data and code.  
 I’ve worked on projects ranging from automating sensor calibration with Python to creating a smart healthcare recommendation system using AI.  
